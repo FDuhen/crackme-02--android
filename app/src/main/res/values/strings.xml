@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Crackme02 - Partagez vos préférences</string>
+    <string name="rules">Règles de ce Crackme : \nInterdit de décompiler l\'application.\nVous avez besoin d\'un device qui est Root.\nVous devez récupérer les accès Premium.</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="riche">Cliquez sur l\'euro pour devenir riche</string>
+    <string name="title_activity_premium">Premium</string>
+</resources>
